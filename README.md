@@ -78,3 +78,81 @@
 
 </body>
 </html>
+
+body{
+font-family: Arial;
+margin:0;
+background:#f4f4f4;
+}
+
+header{
+background:#111;
+color:white;
+text-align:center;
+padding:60px 20px;
+}
+
+.btn{
+background:orange;
+color:white;
+padding:10px 20px;
+text-decoration:none;
+border-radius:5px;
+}
+
+.services{
+padding:40px;
+text-align:center;
+}
+
+.service-box{
+background:white;
+padding:20px;
+margin:10px;
+display:inline-block;
+width:200px;
+border-radius:8px;
+}
+
+.about{
+background:#222;
+color:white;
+padding:40px;
+text-align:center;
+}
+
+.booking{
+padding:40px;
+text-align:center;
+}
+
+.booking input,
+.booking select,
+.booking textarea{
+display:block;
+width:80%;
+margin:10px auto;
+padding:10px;
+}
+
+button{
+background:orange;
+color:white;
+border:none;
+padding:10px 20px;
+cursor:pointer;
+}
+
+.contact{
+background:#111;
+color:white;
+text-align:center;
+padding:30px;
+}
+
+footer{
+background:black;
+color:white;
+text-align:center;
+padding:10px;
+}
